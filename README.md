@@ -10,3 +10,5 @@ Mold them, print them, sell them, we don't care. Just provide attribution and re
 
 ## Attributions
 Ergo trigger profiles modelled after work from [Mikey](https://twitter.com/yaboimikey97) with permission provided.
+
+Controller shell is, in large part, modelled using great reference scans provided by [Wesk on BitBuilt](https://bitbuilt.net/forums/index.php?threads/gamecube-oem-controller-scan.3844/).
