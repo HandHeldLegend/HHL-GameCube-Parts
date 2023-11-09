@@ -1,0 +1,15 @@
+### Footprint positions - created on Wed Nov  8 16:19:26 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                   PosX       PosY       Rot  Side
+SW5       SW_Push               snes_pad              218.5624  -116.4136    0.0000  top
+SW6       GL18_SW               GL18                  177.4622  -116.3018   -3.0000  top
+SW7       SW_Push               Z_Switch_Edge_Omron   168.4110  -100.7886   30.0000  top
+SW8       SW_Push               Z_Switch_Edge_Omron   268.7138  -100.7886  -30.0000  top
+SW9       TS09-63-25-R-260-SMT  TS09                  218.5624  -129.8536    0.0000  top
+SW10      SW_Push               progcc_dpad           196.3413  -139.9833    0.0000  top
+SW11      SW_Push               progcc_dpad           196.3413  -152.6083  180.0000  top
+SW12      SW_Push               progcc_dpad           190.0288  -146.2958   90.0000  top
+SW13      SW_Push               progcc_dpad           202.6538  -146.2958  -90.0000  top
+## End

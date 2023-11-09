@@ -1,0 +1,3 @@
+[submodule "PCB/Library"]
+	path = PCB/Library
+	url = https://github.com/HandHeldLegend/HHL-KiCad-Lib

@@ -1,0 +1,9 @@
+### Footprint positions - created on Wed Nov  8 16:19:26 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                     Package                     PosX       PosY       Rot  Side
+J4        UJ31-CH-G1-SMT-TR       CUI_UJ31-CH-G1-SMT-TR   215.8124   -90.6886    0.0000  bottom
+RV1       Slider_GCC-Gamecube_MB  GCC_Slider              193.5624  -101.4136  180.0000  bottom
+RV2       Slider_GCC-Gamecube_MB  GCC_Slider              243.5624  -101.4136  180.0000  bottom
+## End
